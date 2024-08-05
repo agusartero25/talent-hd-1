@@ -7,15 +7,9 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Hunter Douglas Early Career Programs.</p>",
-      "description": "This text is entirely editable, tailor it freely."
-    },
-    {
-      "__resolveType": "site/sections/MainPost.tsx",
-      "post": {
-        "__resolveType": "blog/loaders/BlogPostItem.ts",
-        "slug": "why-we-web"
-      }
+      "title": "<p>Hunter Douglas Emerging Talent Programs</p>",
+      "description": "Unleash your potential in a global setting.",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12002/7e55bb07-3e77-45a2-af9d-f0c633aac26a"
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
