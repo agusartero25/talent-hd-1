@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/21f19e831a3c",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Hunter Douglas Talent Attraction",
+    "email": "hdtalent@hunterdouglas"
+  }
+}

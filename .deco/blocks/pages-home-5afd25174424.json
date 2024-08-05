@@ -16,7 +16,8 @@
       "posts": {
         "__resolveType": "blog/loaders/BlogpostList.ts",
         "count": 3
-      }
+      },
+      "cta": {}
     },
     {
       "__resolveType": "Footer"

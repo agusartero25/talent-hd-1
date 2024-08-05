@@ -3,10 +3,7 @@
   "__resolveType": "blog/loaders/Blogpost.ts",
   "post": {
     "authors": [
-      {
-        "name": "Name of the Author",
-        "email": "author@deco.cx"
-      }
+      null
     ],
     "categories": [],
     "title": "Ungergrad Internship Program",
