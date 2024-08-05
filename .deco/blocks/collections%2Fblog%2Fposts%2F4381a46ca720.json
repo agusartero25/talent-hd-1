@@ -8,15 +8,10 @@
         "email": "author@deco.cx"
       }
     ],
-    "categories": [
-      {
-        "name": "Performance",
-        "slug": "performance"
-      }
-    ],
+    "categories": [],
     "title": "Ungergrad Internship Program",
     "excerpt": "Jumpstart your career with hands-on global experience through our internships, tailored for current undergrad students.",
-    "slug": "website-performance-deco-guide",
+    "slug": "internship-program",
     "content": "<h1>The Program</h1><p></p><p>Our internships offer full-time opportunities for ambitious undergrads. They’re an excellent way to dive into our business – and leave your mark.</p><p></p><p>Spanning <strong>two to six months</strong>, these internships place you directly in the action. From the very start, you’ll be working on a live project as a member of one of our core teams in areas like <strong>supply chain, marketing, sales, or HR. </strong>You'll have access to training resources, senior leaders, and company events.</p><p></p><p>Demonstrate curiosity and initiative, and this could be the beginning of a successful career with us. To qualify, you’ll need to be pursuing an undergraduate degree in any field.</p><p></p><p></p><p>Internships are available in:</p><p></p><ul><li><p>USA</p></li><li><p>European Union</p></li><li><p>Australia</p></li><li><p>Japan</p></li><li><p>Brazil</p></li><li><p>Argentina</p></li></ul><p></p><h1>Ready to apply?</h1><p></p><p>Step 1:</p><p>Step 2:</p><p>Step 3:</p><p>Step 4:</p><p></p><h1>Apply here:</h1>",
     "date": "2024-04-10",
     "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12002/3b7b2bca-331c-4dea-92fc-42d3de74c38b"
