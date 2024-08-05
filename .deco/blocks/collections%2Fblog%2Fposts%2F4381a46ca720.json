@@ -3,9 +3,17 @@
   "__resolveType": "blog/loaders/Blogpost.ts",
   "post": {
     "authors": [
-      null
+      {
+        "name": "Hunter Douglas Talent Attraction",
+        "email": "hdtalent@hunterdouglas"
+      }
     ],
-    "categories": [],
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
     "title": "Ungergrad Internship Program",
     "excerpt": "Jumpstart your career with hands-on global experience through our internships, tailored for current undergrad students.",
     "slug": "internship-program",

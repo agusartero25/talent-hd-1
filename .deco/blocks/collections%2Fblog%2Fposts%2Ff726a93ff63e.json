@@ -4,11 +4,16 @@
   "post": {
     "authors": [
       {
-        "name": "Name of the Author",
-        "email": "author@deco.cx"
+        "name": "Hunter Douglas Talent Attraction",
+        "email": "hdtalent@hunterdouglas"
       }
     ],
-    "categories": [],
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
     "content": "<h1>The Program</h1><p></p><p>The MBA Development Program at Hunter Douglas offers a dynamic 10-month or 10-week summer experience tailored for high-potential leaders. The program begins with a comprehensive global onboarding to immerse you in our company and culture, setting the stage for a successful tenure.</p><p></p><p></p><p>You will then step into a management role, where you’ll lead one of our key strategic projects, sponsored by a global chief. This hands-on experience will place you at the forefront of our business initiatives, allowing you to make significant contributions across Sales and Marketing, Finance, Operations, or Corporate teams.</p><p></p><p></p><p>Throughout the program, you’ll gain invaluable insights and skills from top executives, driving impactful projects and advancing our mission of innovation and excellence. This is your opportunity to develop leadership skills and business acumen, setting a strong foundation for a successful career at Hunter Douglas.</p><p></p><p></p><h2>Ready to apply?</h2><p></p><p>Step 1:</p><p>Step 2:</p><p>Step 3:</p><p>Step 4</p><p></p><h2>Apply here:</h2>",
     "title": "MBA Development Program",
     "excerpt": "Accelerate your career with our MBA Development Program, where high-potential leaders drive impactful projects and creative solutions across key business areas.",
